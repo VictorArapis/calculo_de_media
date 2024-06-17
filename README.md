@@ -20,3 +20,5 @@ Nenhum pré-requisito específico é necessário para usar este projeto além de
 3. Insira as notas A1 a A5 conforme solicitado.
 4. Clique no botão "Calcular Nota Final" para obter o resultado.
 5. Observe a nota da N1 e a nota final exibidas na tela, com feedback visual de cor.
+
+### Link do site: https://calculo-de-media-ten.vercel.app/
