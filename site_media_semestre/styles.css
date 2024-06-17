@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #2c2c2c;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+    color: #d3b3ff; /* Toque em roxo */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input {
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #d3b3ff; /* Toque em roxo */
+    border-radius: 3px;
+    background-color: #3c3c3c;
+    color: #ffffff;
+}
+
+input::placeholder {
+    color: #d3b3ff; /* Toque em roxo */
+}
+
+button {
+    padding: 10px;
+    background-color: #5a00ff; /* Cor roxa */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4a00e0; /* Tom mais escuro de roxo */
+}
+
+#resultado {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#notaN1 {
+    color: #d3b3ff; /* Toque em roxo */
+}
+
+.nota-vermelha {
+    color: red;
+}
+
+.nota-verde {
+    color: green;
+}
