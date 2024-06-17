@@ -1,4 +1,4 @@
-### Repositório GitHub: Calculadora de Média de Notas
+### Calculadora de Média de Notas
 
 #### Descrição do Projeto
 Este repositório contém uma aplicação web simples para calcular a média da nota do semestre com base em cinco notas de avaliações (A1 a A5). A aplicação utiliza HTML, CSS e JavaScript para funcionar.
@@ -20,19 +20,3 @@ Nenhum pré-requisito específico é necessário para usar este projeto além de
 3. Insira as notas A1 a A5 conforme solicitado.
 4. Clique no botão "Calcular Nota Final" para obter o resultado.
 5. Observe a nota da N1 e a nota final exibidas na tela, com feedback visual de cor.
-
-#### Melhorias Futuras
-- Implementar armazenamento local para salvar e carregar notas.
-- Adicionar gráficos ou visualizações para melhorar a experiência do usuário.
-- Refatorar o código JavaScript para maior modularidade e legibilidade.
-
-#### Contribuições
-Contribuições são bem-vindas! Se desejar melhorar este projeto, sinta-se à vontade para abrir uma issue ou um pull request.
-
-#### Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
----
-
-Este modelo de repositório não apenas fornece a estrutura básica e funcionalidade esperada, mas também promove boas práticas de desenvolvimento e documentação para uma colaboração eficaz e uma experiência de usuário melhorada.
-
